@@ -1,0 +1,103 @@
+
+
+--------------------------------------------------------------------------------------------------------------
+
+0x00. Advanced HTML
+https://html.spec.whatwg.org/multipage/
+https://htmlreference.io/
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+Flexbox
+https://flexbox.buildwithreact.com/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+https://flexbox.malven.co/
+
+0x03. Responsive design
+https://fredericgonzalo.com/en/understanding-the-difference-between-mobile-first-adaptive-and-responsive-design/
+https://developerlife.com/2019/08/25/guide-to-building-responsive-web-apps/
+https://mediaqueri.es/
+
+-----
+0x00. Webpack
+https://webpack.js.org/concepts/
+https://www.sitepoint.com/webpack-beginner-guide/
+https://docs.npmjs.com/cli/v9/configuring-npm/package-json
+
+Forms
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset
+https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/
+https://css-tricks.com/form-validation-ux-html-css/
+https://www.deque.com/blog/anatomy-of-accessible-forms-best-practices/
+
+0x01. React intro
+https://www.taniarascia.com/getting-started-with-react/
+https://react.dev/learn
+https://babeljs.io/docs/
+https://github.com/facebook/create-react-app
+https://enzymejs.github.io/enzyme/docs/api/shallow.html
+
+0x02. React props
+https://www.taniarascia.com/getting-started-with-react/
+https://blog.logrocket.com/validate-react-props-proptypes
+https://react.dev/reference/react/Fragment
+
+-------------------
+Accessibility
+https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/
+https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers
+https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1
+https://engineering.vena.io/building-pylon-free-web-pages-an-intro-to-web-accessibility/
+https://a11y-style-guide.com/style-guide/
+
+0x03. React component
+https://legacy.reactjs.org/docs/react-component.html
+https://enzymejs.github.io/enzyme/docs/api/shallow.html
+https://enzymejs.github.io/enzyme/docs/api/ReactWrapper/mount.html
+https://enzymejs.github.io/enzyme/docs/api/ReactWrapper/unmount.html
+https://legacy.reactjs.org/docs/higher-order-components.html
+https://jestjs.io/docs/jest-object
+
+------------------
+0x04. React inline styling
+https://react.dev/reference/react-dom/components
+https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/render.html
+https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/prop.html
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+https://www.w3schools.com/css/css3_animations.asp
+https://github.com/khan/aphrodite
+
+0x05. React state
+https://react.dev/learn/state-a-components-memory
+https://react.dev/learn/synchronizing-with-effects
+https://react.dev/reference/react/Component
+https://react.dev/reference/react/useContext
+https://react.dev/learn/passing-data-deeply-with-context
+https://react.dev/learn/sharing-state-between-components
+
+-----------------------------
+Sass & Scss
+https://sass-lang.com/guide/
+https://sass-lang.com/documentation/
+
+0x06. React Immutable
+https://en.wikipedia.org/wiki/Immutable_object
+https://github.com/immutable-js/immutable-js
+
+---------------------------------
+0x07. React Redux action creator+normalizr
+https://redux.js.org/usage/structuring-reducers/normalizing-state-shape
+https://redux.js.org/introduction/getting-started
+https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow
+https://redux.js.org/tutorials/fundamentals/part-6-async-logic
+https://redux.js.org/usage/writing-tests
+
+0x08. React Redux reducer+selector
+https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers
+https://redux.js.org/introduction/learning-resources#selectors
+https://redux.js.org/usage/writing-tests
+https://redux.js.org/usage/structuring-reducers/normalizing-state-shape
+https://github.com/paularmstrong/normalizr
+
+----------------------------------
