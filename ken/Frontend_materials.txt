@@ -1,6 +1,10 @@
 
-
+Templates
+-picocss.com
+-https://technext.github.io/100-template-bundle/
 --------------------------------------------------------------------------------------------------------------
+From Alx:
+=================
 
 0x00. Advanced HTML
 https://html.spec.whatwg.org/multipage/
@@ -100,4 +104,4 @@ https://redux.js.org/usage/writing-tests
 https://redux.js.org/usage/structuring-reducers/normalizing-state-shape
 https://github.com/paularmstrong/normalizr
 
-----------------------------------
+---------------------------------- **End**
