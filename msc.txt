@@ -1,5 +1,5 @@
 # A txt file for miscellaneous and arbitrary things.
 # Also a sort of 'to-do' 'for future use'
 
-https://z-lib.id/book/but-how-do-it-know-1  -> This is a book called how-to-do-it-know; It explains the complexities of the morder computer CPU (architecture, functionality, etc)
+https://z-lib.id/book/but-how-do-it-know-1  -> This is a book called "how-to-do-it-know"; It explains the complexities of the morder computer CPU (architecture, functionality, etc)
                                                to be downloaded sooner or later.
