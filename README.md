@@ -1,1 +1,1 @@
-Repo for dumping any programming e-books I bump into in this crazy adventure inside the crazy world of tech.
+This is where I dump any programming e-books/material I come across as I grow as a software engineer.
